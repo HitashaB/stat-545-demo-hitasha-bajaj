@@ -2,3 +2,4 @@
 STAT 545 Demo
 Hitasha Bajaj
 Neuroscientist
+Graduate Student
